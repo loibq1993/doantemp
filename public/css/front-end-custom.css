@@ -1,0 +1,540 @@
+
+/*Page */
+.slider-container .login-container .container{
+    width: 670px;
+    background: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+    position: relative;
+    padding: 10px 30px 10px 30px;
+}
+
+.slider-container .login-container{
+    padding: 30px 30px 50px 30px;
+}
+
+.slider-container .login-container .container .row {
+    padding: 10px 85px 10px 85px;
+}
+
+.slider-container .login-container .container .btn.btn-primary{
+    border-radius: 25px;
+    min-width: 160px;
+    justify-content: center;
+    font-size: 16px;
+    height: 50px;
+}
+
+.slider-container .login-container .container #emailm, #password{
+    height: 50px;
+/*     width: 80%; */
+}
+
+.slider-container .login-container .container #email{
+    padding: 6px 12px !important;
+}
+
+.slider-container .login-container .container #email,.slider-container .login-container .container #password {
+    margin-top: 5px;
+}
+
+.slider-container .login-container .container .form-group-email{
+    padding-top: 20px;
+    padding-bottom: 30px;
+    text-align: left;
+}
+
+.slider-container .login-container .container .form-group-password{
+    padding-bottom: 10px;
+    text-align: left;
+}
+
+.slider-container .login-container .container .form-group-forgetpass{
+    text-align: right;
+    font-size: 15px;
+}
+
+.slider-container .login-container .container .form-group-signup{
+    text-align: center;
+    font-size: 13px;
+    padding-top: 30px;
+}
+
+.slider-container .login-container .container .form-group-forgetpass a{
+   color: #888;
+}
+
+.slider-container .login-container .container #email,  #password {
+   display: block;
+    width: 100%;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 0px 25px 0px 25px;
+    font-style: normal;
+}
+
+.slider-container .login-container .container #login-form span{
+    font-size: 18px;
+    font-family: inherit;
+}
+
+.slider-container .login-container .container #email-error, #password-error{
+   padding-left: 25px;
+    color: red;
+}
+
+
+/* Css for display register */
+.slider-container .register-container .container{
+    width: 80%;
+    background: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+    position: relative;
+    padding: 10px 30px 10px 30px;
+}
+
+.slider-container .register-container{
+    padding: 30px 30px 50px 30px;
+}
+
+.slider-container .register-container .container .row {
+    padding: 10px 85px 10px 85px;
+}
+.slider-container .register-container .container .row fieldset { 
+    margin: 8px;
+    border: 1px solid silver;
+    padding: 8px;    
+    border-radius: 4px;
+}
+
+.slider-container .register-container .container .row legend { 
+    display: block;
+    padding-left: 2px;
+    padding-right: 2px;
+    border: 1px;
+    font-size: 18px;
+    text-align: left;
+}
+
+.slider-container .register-container .container .btn.btn-primary{
+    border-radius: 25px;
+    min-width: 160px;
+    justify-content: center;
+    font-size: 16px;
+    height: 50px;
+}
+
+.slider-container .register-container .container input{
+    height: 40px;
+}
+
+.slider-container .register-container .container .form-group-email{
+    padding-top: 15px;
+    padding-bottom: 12px;
+    text-align: left;
+}
+
+.slider-container .register-container .container .row .col-sm-3 .form-group-email .img-avatar{
+    width: 138px;
+    height: 138px;
+    border: 1;
+}
+
+.slider-container .register-container .container .form-group-password{
+    padding-bottom: 10px;
+    text-align: left;
+}
+
+.slider-container .register-container .container .form-group-forgetpass{
+    text-align: right;
+    font-size: 15px;
+}
+
+.slider-container .register-container .container .form-group-signup{
+    text-align: center;
+    font-size: 13px;
+    padding-top: 30px;
+}
+
+.slider-container .register-container .container .form-group-forgetpass a{
+   color: #888;
+}
+
+.slider-container .register-container .container input, #password{
+    display: block;
+    width: 100%;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    height: 40px;
+}
+
+.slider-container .register-container .container #registration-form select{
+    height: 40px;
+}
+
+.slider-container .register-container .container #login-form span{
+    font-size: 18px;
+    font-family: inherit;
+}
+
+.slider-container .register-container .container .form-register{
+    padding-top: 20px;
+}
+
+/* member_kttt */
+.slider-container .register-container .container #user_name-error, #user_phone-error, #gender-error,
+#user_address-error, #birthday_day-error, #birthday_month-error, #birthday_year-error,
+#user_place_lv1_id-error, #user_place_lv2_id-error, #user_pick_point_id-error, #avatar_file-error{
+    color: red;
+}
+
+/* member_ktmh */
+#member_name-error,  #member_birthday_day-error, #member_birthday_month-error, #member_birthday_year-error, #member_phone-error, 
+#member_gender-error, #member_province-error, #member_address-error, #member_place_study-error, #name_father_mother-error, 
+#phone_father_mother-error, #member_ktmh_id-error{
+   /*padding-left: 25px;*/
+    color: red;
+}
+.slider-container .register-container .container .icon-require{
+    color: red;
+    font-size: 17px;
+}
+
+/*Css dislay register verify_account*/
+.slider-container .verify-account-container{
+    padding: 30px 30px 50px 30px;
+}
+
+.slider-container .verify-account-container .container .row {
+    padding: 10px 85px 10px 85px;
+     height: 200px;
+}
+
+.slider-container .verify-account-container .container{
+    width: 670px;
+    background: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+    position: relative;
+    padding: 20px 30px 10px 30px;
+}
+.slider-container .verify-account-container .container .form-group-email{
+    padding-top: 20px;
+}
+
+.slider-container .verify-account-container .container .row .a-verify{
+    padding-top: 20px;
+    font-size: 15px
+}
+
+.center {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+/* Css display forgetpassord*/
+.slider-container .forgetpassword-container .container{
+    width: 670px;
+    background: #ffff;
+    border-radius: 10px;
+    overflow: hidden;
+    position: relative;
+    padding: 10px 30px 10px 30px;
+}
+
+.slider-container .forgetpassword-container{
+    padding: 30px 30px 50px 30px;
+}
+
+.slider-container .forgetpassword-container .container .row {
+    padding: 10px 85px 10px 85px;
+}
+
+.slider-container .forgetpassword-container .container .btn.btn-primary{
+    border-radius: 25px;
+    min-width: 160px;
+    justify-content: center;
+    font-size: 16px;
+    height: 50px;
+}
+
+.slider-container .forgetpassword-container .container #email{
+    height: 50px;
+}
+
+.slider-container .forgetpassword-container .container .form-group-email{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: left;
+}
+
+.slider-container .forgetpassword-container .container .form-group-password{
+    padding-bottom: 10px;
+    text-align: left;
+}
+
+.slider-container .forgetpassword-container .container .form-group-forgetpass{
+    text-align: right;
+    font-size: 15px;
+}
+
+.slider-container .forgetpassword-container .container .form-group-signup{
+    text-align: center;
+    font-size: 13px;
+    padding-top: 20px;
+}
+
+.slider-container .forgetpassword-container .container #email{
+   display: block;
+    width: 100%;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 0px 25px 0px 25px;
+    font-style: normal;
+}
+
+.slider-container .forgetpassword-container .container #forgetpassword-form span{
+    font-size: 18px;
+    font-family: inherit;
+}
+
+.slider-container .forgetpassword-container .container #email-error{
+    padding-left: 25px;
+    color: red;
+}
+
+/*list course*/
+.slider-container .course-list-container .container{
+    width: 80%;
+    background: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+    position: relative;
+    padding: 10px 10px 10px 10px;
+}
+
+.slider-container .course-list-container{
+    padding: 30px 30px 50px 30px;
+}
+
+.slider-container .course-list-container .container .row {
+     padding: 10px 30px 10px 30px;
+ }
+
+.slider-container .course-list-container .container .row h1{
+    padding-bottom: 20px;
+}
+
+.slider-container .course-list-container .container .row .box th{
+    font-size: 18px;
+    text-align: center;
+}
+
+.slider-container .course-list-container .container .row .box td{
+    font-size: 15px;
+    text-align: center;
+}
+
+.slider-container .course-list-container .container .row .register-course{
+    border-radius: 25px;
+    min-width: 100px;
+    justify-content: center;
+    font-size: 14px;
+    height: 32px;
+    background-color: #CC3300;
+    color: white;
+}
+
+.slider-container .show-error-data {
+    color: red;
+    font-size: 17px;
+}
+
+.slider-container .text-note {
+    color: red;
+    font-size: 13px;
+}
+
+
+span{
+    line-height: initial;
+}
+
+/* register_course_check */
+/*list course*/
+.slider-container .register-course-check-container .container{
+    width: 80%;
+    background: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+    position: relative;
+    padding: 10px 10px 10px 10px;
+}
+
+.slider-container .register-course-check-container{
+    padding: 30px 30px 50px 30px;
+}
+
+.slider-container .register-course-check-container .about-course{
+    text-align: left
+}
+
+.slider-container .register-course-check-container .about-course .name-course{
+    background-color: #f1f1f1!important;
+    color: #000!important;
+    background-color: #f1f1f1!important;
+    border-left: 6px solid #ccc!important;
+    border-color: #cc3303!important;
+}
+
+.slider-container .register-course-check-container .col-sm-12.form-group .col-sm-6{
+    padding-left: 0px;
+}
+
+.slider-container .register-course-check-container .register-course {
+    width: 200px;
+    height: 60px;
+    border-radius: 25px;
+    min-width: 100px;
+    font-size: 24px;
+    background-color: #CC3300;
+    color: white;
+}
+
+.slider-container .register-course-check-container .register-course-end{
+    width: 200px;
+    height: 60px;
+    border-radius: 25px;
+    min-width: 100px;
+    font-size: 24px;
+    background-color:white;
+    color:#CC3300;
+}
+.slider-container .register-course-check-container .about-course h3{
+    margin-bottom: 20px;
+}
+
+h3{
+    line-height: 32px;
+}
+
+/*ktmh*/
+
+.register-course-ktmh {
+    width: 200px;
+    height: 60px;
+    border-radius: 25px;
+    min-width: 100px;
+    font-size: 24px;
+    background-color: #CC3300;
+    color: white;
+}
+
+.slider-container .show-print-data{
+    padding: 0 50px 0 50px;
+}
+
+.slider-container .register-container .container .row .modal-cancel-member{
+    margin: 0px;
+    left: 25%;
+}
+.slider-container .register-container .show-message{
+    color: blue;
+    font-size: 16px;
+}
+.header-icon-height{
+        height: 30px;
+    }
+
+/*Css for smart phone*/
+
+@media (max-width: 600px){
+    .slider-container .register-container .container{
+        width: 100%;
+        background: #fff;
+        border-radius: 10px;
+        overflow: hidden;
+        position: relative;
+        padding: 10px 10px 10px 10px;
+        display: flex;
+    }
+    
+    .slider-container .register-container .container .row h1{
+        font-size: 30px;
+    }
+
+    .slider-container .register-container{
+        padding: 10px;
+    }
+    .slider-container .register-container .container .row {
+        padding: 10px;
+        width: 100%;
+        font-size: 14px;
+    }   
+    
+    .slider-container .register-container .container .row .col-sm-3 .form-group-email .img-avatar{
+        width: 110px;
+        height: 110px;
+        border: 1;
+    }
+
+    .slider-container .register-container .container .row .container-fluid .btn.btn-primary{
+        border-radius: 25px;
+        min-width: 70px;
+        justify-content: center;
+        font-size: 14px;
+        height: 35px;       
+    } 
+
+    .slider-container .register-container .container .row .portlet-body .table{
+        padding: 0;
+        width: 335px;
+        font-size: 12px;
+    } 
+
+    .slider-container .register-container .container .row .modal-cancel-member{
+        width: 80%;
+        margin: 5%;
+        left: 5%;
+    }
+
+    .slider-container .register-container .show-message{
+        color: blue;
+        font-size: 14px;
+    }
+
+    .slider-container .register-container .container .icon-require{
+        color: red;
+        font-size: 16px;
+    }
+
+    .header-icon{
+        margin-top: 15px;
+    }
+    .header-icon-height{
+        height: 30px;
+    }    
+    .header-margin-bottom{
+        margin-bottom: 80px;
+    }
+
+}

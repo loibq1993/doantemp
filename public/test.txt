@@ -1,0 +1,20 @@
+ 2,Mrs. Zetta Miller,10C1_2019_2020,Toán 10,Học kỳ I,4,5,7,8,7
+3,Dr. Winifred Terry,10C1_2019_2020,Toán 10,Học kỳ I,5,6,7,8,5
+4,Dina Schmidt,10C1_2019_2020,Toán 10,Học kỳ I,8,7,7,8,5
+5,Mohammad Howell Jr.,10C1_2019_2020,Toán 10,Học kỳ I,5,4,4,8,9
+6,Ellis Robel,10C1_2019_2020,Toán 10,Học kỳ I,6,5,8,7,8
+7,Gilbert Larkin,10C1_2019_2020,Toán 10,Học kỳ I,10,10,10,10,10
+8,Nestor Nienow,10C1_2019_2020,Toán 10,Học kỳ I,10,10,7,8,5
+9,Mrs. Alva Greenholt MD,10C1_2019_2020,Toán 10,Học kỳ I,5,8,7,10,5
+10,Kendra Roberts,10C1_2019_2020,Toán 10,Học kỳ I,7,8,6,7,8
+11,Madyson Kassulke V,10C1_2019_2020,Toán 10,Học kỳ I,8,8,10,8,9
+12,Jordon Zemlak PhD,10C1_2019_2020,Toán 10,Học kỳ I,8,8,10,8,9
+13,Dr. Dillon Hartmann MD,10C1_2019_2020,Toán 10,Học kỳ I,8,8,10,8,9
+14,Turner Orn,10C1_2019_2020,Toán 10,Học kỳ I,8,8,10,8,9
+15,Hailie O'Connell,10C1_2019_2020,Toán 10,Học kỳ I,8,8,10,8,9
+16,Letha Jacobson,10C1_2019_2020,Toán 10,Học kỳ I,8,8,10,8,9
+17,Francesca Upton,10C1_2019_2020,Toán 10,Học kỳ I,8,8,10,8,9
+18,Janessa Jerde,10C1_2019_2020,Toán 10,Học kỳ I,8,8,10,8,9
+19,Dr. Akeem Hudson II,10C1_2019_2020,Toán 10,Học kỳ I,8,8,10,8,9
+20,Orval Pagac II,10C1_2019_2020,Toán 10,Học kỳ I,8,8,10,8,9
+

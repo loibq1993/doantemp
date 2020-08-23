@@ -1,0 +1,32 @@
+.login .content .register-form {
+    display: block !important; }
+
+#create-course-form #course_name-error{color: red;}
+#create-course-form #course_date_start-error{color: red;}
+#create-course-form #course_date_end-error{color: red;}
+#create-course-form #course_status-error{color: red;}
+
+
+#export-data-form #export_name-error{color: red;}
+#export-data-form #export_type-error{color: red;}
+
+/* place_lvl1 */
+#create-level1-form #level1_name-error{color: red;}
+
+/* place_lvl2 */
+#create-level2-form #level1_name-error, #level2_name-error, #pick_point1-error
+{
+	color: red;
+}
+
+.icon-require{color: red;}
+
+.show-error-data{color: red;}
+
+#mail_confirm #course_name-error{color: red;}
+
+#image-upload #title-error, #image-upload #filename-error{color: red;}
+
+tr.background {
+	background-color: #ffa500;
+}

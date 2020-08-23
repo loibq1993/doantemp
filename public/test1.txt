@@ -1,0 +1,1 @@
+UPDATE student_class set is_enable='0' where user_id='1' and class_id=1

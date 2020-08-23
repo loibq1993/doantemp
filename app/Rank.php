@@ -1,0 +1,12 @@
+<?php
+
+namespace App;
+
+use Illuminate\Database\Eloquent\Model;
+
+class Rank extends Model
+{
+    protected $table = 'rank';
+    const table = 'rank';
+    protected $guarded = [];
+}
